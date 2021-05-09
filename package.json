@@ -23,6 +23,6 @@
     "@actions/github": "^4.0.0",
     "date-fns": "^2.15.0",
     "datocms-client": "^3.0.34",
-    "handlebars": "^4.7.6"
+    "handlebars": "^4.7.7"
   }
 }
